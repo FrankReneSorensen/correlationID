@@ -1,0 +1,4 @@
+com\adhocit\handler\MACAdressValidationHandler.class
+com\adhocit\App.class
+com\adhocit\ws\CorrelationIDWebServiceImpl.class
+com\adhocit\ws\CorrelationIDWebService.class
